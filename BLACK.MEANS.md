@@ -1,4 +1,5 @@
-Theoretical Civic Modernization Through Applied Sciences and Psychiatric Autonomy
+**Theoretical Civic Modernization Through Applied Sciences and Psychiatric Autonomy**
+
 I. Applied Science and the Expansion of Human Agency
 
 A modern city is often measured through visible infrastructure: roads, transit, hospitals, schools, utilities. Yet beneath those systems lies another layer that increasingly defines civic life: the scientific and technological structures that extend individual human capacity. Applied science, in this deeper sense, is not merely a field of invention. It becomes a public framework through which people maintain agency, resilience, and participation within urban life.

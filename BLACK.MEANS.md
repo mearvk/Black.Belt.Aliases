@@ -1,6 +1,6 @@
 **Theoretical Civic Modernization Through Applied Sciences and Psychiatric Autonomy**
 
-I. Applied Science and the Expansion of Human Agency
+**I. Applied Science and the Expansion of Human Agency**
 
 A modern city is often measured through visible infrastructure: roads, transit, hospitals, schools, utilities. Yet beneath those systems lies another layer that increasingly defines civic life: the scientific and technological structures that extend individual human capacity. Applied science, in this deeper sense, is not merely a field of invention. It becomes a public framework through which people maintain agency, resilience, and participation within urban life.
 
@@ -12,7 +12,7 @@ That confidence has social consequences. When citizens experience reliable acces
 
 A city shaped by this philosophy appears more adaptive and humane. Scientific systems become embedded in ordinary civic rhythm. Infrastructure aligns with human variability rather than forcing rigid conformity. Public spaces accommodate broader forms of movement and perception. The result is not simply efficiency. It is a civic environment where capability is reinforced and visibly respected.
 
-II. Psychiatry and the Preservation of Liberty
+**II. Psychiatry and the Preservation of Liberty**
 
 If applied science extends physical agency, psychiatry preserves psychological continuity. Together they form a broader architecture of personhood.
 

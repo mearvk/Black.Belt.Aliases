@@ -28,7 +28,7 @@ That orientation produces visible public effects. People who feel psychologicall
 
 The city benefits from this in quiet but cumulative ways. Fewer systems operate in crisis mode. More interactions remain calm and cooperative. Institutions become more credible because people experience them as responsive and balanced.
 
-III. Public Institutions and the Culture of Civic Trust
+**III. Public Institutions and the Culture of Civic Trust**
 
 A city’s institutions—police departments, public safety teams, transportation authorities, sanitation services, permit offices, libraries, councils, and mayoral administrations—gain legitimacy through repeated interactions.
 
@@ -48,7 +48,7 @@ In that environment civic warmth increases. Not as sentimentality, but as functi
 
 That confidence improves resilience during difficult periods as well. Economic downturns, emergencies, or infrastructure disruptions are easier to navigate when baseline trust already exists.
 
-IV. Economic Modernization and Civic Capacity
+**IV. Economic Modernization and Civic Capacity**
 
 Economic development is often framed through investment, employment, and growth metrics. Those remain essential. But deeper civic modernization adds another layer: the degree to which scientific and psychological systems allow more people to contribute reliably.
 
@@ -74,7 +74,7 @@ Economic modernization then reinforces social trust, which reinforces participat
 
 A constructive cycle emerges.
 
-V. Civic Warmth and Shared Public Culture
+**V. Civic Warmth and Shared Public Culture**
 
 A city’s emotional atmosphere matters.
 
@@ -108,7 +108,7 @@ The city gains an atmosphere of welcome grounded in practical competence.
 
 That combination—warmth with reliability—is often what makes urban life feel sustainable.
 
-VI. A Speculative Future City Model
+**VI. A Speculative Future City Model**
 
 Imagine a mid-sized city several decades into this model of modernization.
 
